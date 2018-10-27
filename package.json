@@ -1,0 +1,20 @@
+{
+  "name": "mongo-seed",
+  "version": "0.1.0",
+  "description": "A Docker image to seed your Mongo database.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://qithub.com/stefanwalther/docker-mongo-seed"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "seed",
+    "docker"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT"
+}

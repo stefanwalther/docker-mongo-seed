@@ -1,0 +1,30 @@
+[
+  {
+    "_id": {
+      "$oid": "5bd0e70b9db9ea0011519bd0"
+    },
+    "scope": [],
+    "is_active": true,
+    "is_verified": true,
+    "is_deleted": false,
+    "firstname": "Stefan",
+    "lastname": "Walther",
+    "local": {
+      "is_verified": false,
+      "_id": {
+        "$oid": "5bd0e70b9db9ea0011519bd1"
+      },
+      "username": "admin",
+      "email": "stefan@walthers.me",
+      "password": "c39b7d78c8cc2deda1f53be1555d3e9d9ebd0f60552e35ccafb437108ba3582474721230abf9dfbbbd9e4e315001f3e3930afaeb272983da41262429349ef067",
+      "salt": "530328769df699a227f52275cdbae3dc"
+    },
+    "s5r_updated_at": {
+      "$date": 1540417291457
+    },
+    "s5r_created_at": {
+      "$date": 1540417291457
+    },
+    "__v": 0
+  }
+]
