@@ -1,4 +1,5 @@
 FROM alpine
+LABEL maintainer="Stefan Walther <swr.nixda@gmail.com>"
 
 RUN apk add --update mongodb-tools netcat-openbsd
 COPY ./wait-for-mongo.sh .
