@@ -2,6 +2,8 @@
 
 > A Docker image to seed your Mongo database.
 
+[![](https://images.microbadger.com/badges/image/stefanwalther/mongo-seed.svg)](https://microbadger.com/images/stefanwalther/mongo-seed "Get your own image badge on microbadger.com")
+
 ---
 
 ## Purpose
