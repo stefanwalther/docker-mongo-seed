@@ -18,7 +18,7 @@ $ docker pull stefanwalther/mongo-seed:<version>
 
 ## Usage
 
-```
+```yaml
 version: '3.3'
 
 services:
