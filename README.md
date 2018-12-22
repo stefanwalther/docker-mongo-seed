@@ -8,12 +8,12 @@
 
 ## Purpose
 
-Docker image to seed your mongo database with ease.
+Docker image to seed your mongo database with ease. Available on [Docker Hub](https://hub.docker.com/r/stefanwalther/mongo-seed)
 
 ## Installation
 
 ```
-$ docker pull stefanwalther/mongo-seed:<version>
+$ docker pull stefanwalther/mongo-seed[:<version>]
 ```
 
 ## Usage
