@@ -40,7 +40,7 @@ services:
     depends_on:
       - mongo
     command: [
-      "mongoimport --host mongo --port 27017 --db sammlerio --mode upsert --type json --file /data/auth-service~~user.json --jsonArray"
+      user.json
     ]
 
 ```

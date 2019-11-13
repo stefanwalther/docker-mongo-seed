@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "5bd0e70b9db9ea0011519bd0"
+    },
+    "isActive": true,
+    "firstName": "Stefan",
+    "lastName": "Walther",
+    "__v": 0
+  }
+]

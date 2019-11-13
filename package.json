@@ -1,6 +1,6 @@
 {
   "name": "mongo-seed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Docker image to seed your Mongo database.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,14 @@
     "mongo",
     "mongodb",
     "seed",
-    "docker"
+    "docker",
+    "seed",
+    "seeding",
+    "db-seed",
+    "database-seeding",
+    "seed-database",
+    "mongo-seeding",
+    "mongo-seed"
   ],
   "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
   "license": "MIT"
