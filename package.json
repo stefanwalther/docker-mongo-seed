@@ -15,6 +15,6 @@
     "seed",
     "docker"
   ],
-  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "author": "Stefan Walther",
   "license": "MIT"
 }
